@@ -1,4 +1,4 @@
-Hi 👋 My name is Soongyu Kwon
+Hello there 👋 My name is Soongyu Kwon
 =============================
 
 * 🌍  I'm based in Seoul, South Korea
